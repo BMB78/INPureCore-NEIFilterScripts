@@ -1,0 +1,18 @@
+## Title: User_filters
+## Author: BMB
+## Version: 1.0
+Backpack.js
+Backpacks.js
+BalancedExchange.js
+Botania.js
+ExtraCells.js
+MFR.js
+OpenBlocks.js
+PressurePipes.js
+ProjectRed-Transmission.js
+Railcraft.js
+SB_MURASAMA.js
+SB_Zephyr.js
+TConstruct.js
+Thaumcraft.js
+TwilightForest.js
