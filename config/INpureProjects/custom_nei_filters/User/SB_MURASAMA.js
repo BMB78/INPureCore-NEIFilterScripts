@@ -1,6 +1,5 @@
-if (FML.isModLoaded("flammpfeil.slashblade.murasamablade")){
-    
-    NEI.override_item("flammpfeil.slashblade.murasamablade", "RFBlade", [0]);
-    
-}
+if (FML.isModLoaded("flammpfeil.slashblade.murasamablade")) {
 
+	NEI.override("flammpfeil.slashblade.murasamablade:RFBlade", [0]);
+
+}

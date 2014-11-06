@@ -1,6 +1,5 @@
-if (FML.isModLoaded("extracells")){
-    
-    NEI.override_item("extracells", "pattern.fluid", [0]);
-    
-}
+if (FML.isModLoaded("extracells")) {
 
+	NEI.override("extracells:pattern.fluid", [0]);
+
+}

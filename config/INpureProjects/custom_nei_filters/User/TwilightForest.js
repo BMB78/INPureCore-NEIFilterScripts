@@ -1,6 +1,6 @@
-if (FML.isModLoaded("TwilightForest")){
-    
-    NEI.override_block("TwilightForest", "tile.TFBossSpawner", [0]);
-    NEI.override_item("TwilightForest", "item.tfspawnegg", [0]);
-}
+if (FML.isModLoaded("TwilightForest")) {
 
+	NEI.hide("TwilightForest:tile.TFBossSpawner");
+	NEI.hide("TwilightForest:item.tfspawnegg");
+
+}
