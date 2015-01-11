@@ -1,0 +1,43 @@
+## Title: User_filters
+## Author: BMB
+## Version: 1.0
+AM2.js
+AOBD.js
+Backpack.js
+Backpacks.js
+BalancedExchange.js
+BiblioWoodsNatura.js
+Binnie.js
+BOP.js
+BloodMagic.js
+Botania.js
+CC.js
+Chisel.js
+DarkMenagerie.js
+DecoCraft.js
+DenseOres.js
+EnderIO.js
+ExtraCells.js
+ExtraTiC.js
+Forestry.js
+GardenStaff.js
+GraveStone.js
+HEE.js
+IguanaTweaksTConstruct.js
+MagicalCrops.js
+MagicBee.js
+Mariculture.js
+Natura.js
+OpenBlocks.js
+Pam.js
+PressurePipes.js
+ProjectRed-Transmission.js
+Railcraft.js
+RandomThings.js
+SB_MURASAMA.js
+SB_Zephyr.js
+Thaumcraft.js
+ThaumicExploration.js
+ThermalFoundation.js
+TabulaRasa.js
+TwilightForest.js
